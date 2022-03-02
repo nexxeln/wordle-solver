@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is yet another wordle solver. It is built with the official word list of the official [wordle](https://www.nytimes.com/games/wordle/index.html) website, but it should also work with most wordle websites. The algorithm is quite efficient, but it is not perfect. On playing 50 games of wordle using the solver, the average number of tries it too to guess the word is **3.86**.
+This is yet another wordle solver. It is built with the word list of the official [wordle](https://www.nytimes.com/games/wordle/index.html) website, but it should also work with most wordle websites. The algorithm is quite efficient, but it is not perfect. On playing 50 games of wordle using the solver, the average number of tries it took to guess the word is **3.86**.
 
 ## Prerequisites
 
@@ -31,7 +31,7 @@ This is yet another wordle solver. It is built with the official word list of th
     - `g` for greeen
   - Enter the words provided in the wordle website
   - You can also see the demo gif above
-- Flex your wordle result and share it with your friends
+- Flex your wordle skills and share it with your friends
 
 ## Contributing
 
