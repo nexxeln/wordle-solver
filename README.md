@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is yet another world solver. It is built with the official word list of the official [wordle](https://www.nytimes.com/games/wordle/index.html) website, but it should also work with most wordle websites. The algorithm is quite efficient, but it is not perfect. On playing 50 games of wordle using the solver, the average number of tries it too to guess the word is **3.86**.
+This is yet another word solver. It is built with the official word list of the official [wordle](https://www.nytimes.com/games/wordle/index.html) website, but it should also work with most wordle websites. The algorithm is quite efficient, but it is not perfect. On playing 50 games of wordle using the solver, the average number of tries it too to guess the word is **3.86**.
 
 ## Prerequisites
 
