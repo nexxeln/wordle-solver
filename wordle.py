@@ -230,4 +230,4 @@ if __name__ == "__main__":
     if current_guess_count > max_guess_count:
         max_guess_count = current_guess_count
 
-    print(f"[green3]Solved in[/green3] [deep_sky_blue3]{total_guesses}[deep_sky_blue3] [green3]guesses[/green3]")
+    print(f"\n[green3]Solved in[/green3] [deep_sky_blue3]{total_guesses}[deep_sky_blue3] [green3]guesses[/green3]")
